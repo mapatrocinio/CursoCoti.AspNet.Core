@@ -1,0 +1,5 @@
+https://code.visualstudio.com/download
+
+[20/5 17:24] Thiago Leta Ctx: https://gitforwindows.org/
+[20/5 17:24] Thiago Leta Ctx: https://nodejs.org/en/download/
+[20/5 17:24] Thiago Leta Ctx: https://cli.angular.io/
